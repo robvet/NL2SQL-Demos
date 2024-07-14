@@ -16,4 +16,4 @@ infra/target/
 **/__pycache__/
 
 # Add the specific path to exclude the credentials.env file
-AdHocDemos/Accelerator/credentials.env
+Accelerator/credentials.env
