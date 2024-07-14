@@ -1,0 +1,17 @@
+[33mcommit b97bfdfbbaa78f051c0624612c9c3640ddd599d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Rob Vettor <robvet@microsoft.com>
+Date:   Sat Jul 13 20:17:32 2024 -0500
+
+    updates to gitignore
+
+[33mcommit 942d26847e90a3be6238a1a8b847804656e36bd8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Rob Vettor <robvet@microsoft.com>
+Date:   Sat Jul 13 20:06:45 2024 -0500
+
+    updates
+
+[33mcommit 4810796a180468a47514fd586588547792a13a8b[m
+Author: Rob Vettor <robvet@microsoft.com>
+Date:   Sat Jul 13 20:00:52 2024 -0500
+
+    Initial commit
