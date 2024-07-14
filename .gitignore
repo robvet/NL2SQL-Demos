@@ -14,3 +14,6 @@ credentials.env
 .vscode/
 infra/target/
 **/__pycache__/
+
+# Add the specific path to exclude the credentials.env file
+NL2SQL/AdHocDemos/Accelerator/credentials.env
