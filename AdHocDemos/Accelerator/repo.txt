@@ -1,0 +1,1 @@
+https://github.com/robvet/sree-Azure-Cognitive-Search-Azure-OpenAI-Accelerator/blob/main/08-SQLDB_QA.ipynb
